@@ -12,7 +12,7 @@ const HeroSection = () => {
       >
         <div className="text-center text-white px-4">
         <h1 className="text-4xl md:text-6xl font-bold mb-4">
-          Empowering Your Thoughts into Reality
+          Empowering  Thoughts into Reality
         </h1>
         <p className="text-lg md:text-2xl mb-6">
           We deliver innovative solutions to help you succeed.
